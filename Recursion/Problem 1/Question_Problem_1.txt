@@ -1,0 +1,5 @@
+Given a number n, find all binary sequences of length 2n such that the sum of first n bits is same as sum of last n bits.
+Example:
+Input:
+2
+Output:
