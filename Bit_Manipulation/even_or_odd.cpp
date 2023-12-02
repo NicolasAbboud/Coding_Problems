@@ -4,7 +4,9 @@ using namespace std;
 
 void even_odd(int n)
 {
-    if (n & 1)
+    if (n == 0)
+        cout << "none";
+    else if (n & 1)
         cout << "odd";
     else
         cout << "even";
